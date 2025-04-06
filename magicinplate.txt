@@ -1,0 +1,43 @@
+INSERT INTO Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+VALUES(N'Кюфтета с картофено пюре', N'Месно ястие с гарнитура', 40, N'Средно', 2, N'Омеси кайма с подправки, оформи кюфтета и ги изпържи. Свари 4 картофа, намачкай с масло и мляко. Сервирай кюфтетата с пюрето.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Пълнени чушки с ориз и месо', N'Ястие', 60, N'Средно', 2, N'Смеси ориз с кайма, лук, морков и подправки. Напълни чушки и ги печи 40 мин. на 180°C.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Пиле с ориз', N'Други', 70, N'Средно', 2, N'Задуши пилешко месо с лук и морков. Добави ориз, бульон, подправки и печи в тава.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Гювеч', N'Ястие с месо', 90, N'Трудно', 2, N'Нарежи зеленчуци и месо, подправи и печи в глинен съд 1.5 часа.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Мусака', N'Ястие', 80, N'Средно', 2, N'Редувай картофи и кайма, запечи и залей със смес от яйца и кисело мляко.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Картофена яхния', N'Постно ястие', 50, N'Лесно', 2, N'Задуши лук, добави картофи, морков, домат и подправки. Вари до омекване.');
+
+
+INSERT INTO Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+VALUES (N'Зеле с месо', N'Ястие', 120, N'Трудно', 2, N'Задуши зеле и месо, добави подправки и вари на слаб огън 2 часа.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Крем карамел', N'Десерт', 60, N'Средно', 3, N'Разбий яйца с мляко и захар. Изсипи в карамелизирани форми и печи на водна баня.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Тирамису', N'Десерт', 40, N'Трудно', 3, N'Редувай бишкоти, крем от маскарпоне и кафе. Охлади и поръси с какао.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Бисквитена торта', N'Десерт', 20, N'Лесно', 3, N'Редувай бисквити и крем. Остави в хладилника 2 часа.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Палачинки', N'Десерт', 30, N'Лесно', 3, N'Приготви тесто от яйца, мляко и брашно. Изпържи и сервирай със сладко.');
+
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Какаов пудинг', N'Десерт', 20, N'Лесно', 3, N'Свари мляко със захар и какао, добави нишесте и вари до сгъстяване.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Мляко с ориз', N'Десерт', 40, N'Лесно', 3, N'Свари ориз с мляко и захар до сгъстяване.');
+
+insert into Recipes (Name, Description, PreparationTime, Difficulty, CategoryID, Instructions)
+values (N'Чийзкейк', N'Десерт', 50, N'Средно', 3, N'Смеси бисквити с масло, отгоре крем със сирене. Охлади.');
